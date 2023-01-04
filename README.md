@@ -5,27 +5,27 @@ Basic Git Commands
 # Screenshots
 ![](images/git-init.png)
 
-![](Output/git-status.png)
+![](images/git-status.png)
 
-![](Output/1 (3).png)
+![](images/1 (3).png)
 
-![](Output/1 (4).png)
+![](images/1 (4).png)
 
-![](Output/1 (5).png)
+![](images/1 (5).png)
 
-![](Output/1 (6).png)
+![](images/1 (6).png)
 
-![](Output/1 (7).png)
+![](images/1 (7).png)
 
-![](Output/1 (8).png)
+![](images/1 (8).png)
 
-![](Output/1 (9).png)
+![](images/1 (9).png)
 
-![](Output/1 (10).png)
+![](images/1 (10).png)
 
-![](Output/1 (11).png)
+![](images/1 (11).png)
 
-![](Output/1 (12).png)
+![](images/1 (12).png)
 
 
 
